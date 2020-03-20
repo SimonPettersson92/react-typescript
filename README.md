@@ -8,7 +8,7 @@ After downloading, enter
 ```
 npm install
 ```
-to install node.js modules. Then run either
+to install node.js modules. Then run
 ```
 npm start
 ```
